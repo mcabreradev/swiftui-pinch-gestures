@@ -12,6 +12,7 @@
 		5F1452B228ED1A42007A0C33 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5F1452B128ED1A42007A0C33 /* Assets.xcassets */; };
 		5F1452B528ED1A42007A0C33 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5F1452B428ED1A42007A0C33 /* Preview Assets.xcassets */; };
 		5F1452C028ED2A1E007A0C33 /* InfoPanelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F1452BF28ED2A1E007A0C33 /* InfoPanelView.swift */; };
+		5FEB97AC28F5F5E5003503C0 /* ControlImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FEB97AB28F5F5E5003503C0 /* ControlImageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		5F1452B128ED1A42007A0C33 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5F1452B428ED1A42007A0C33 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5F1452BF28ED2A1E007A0C33 /* InfoPanelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoPanelView.swift; sourceTree = "<group>"; };
+		5FEB97AB28F5F5E5003503C0 /* ControlImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 			isa = PBXGroup;
 			children = (
 				5F1452BF28ED2A1E007A0C33 /* InfoPanelView.swift */,
+				5FEB97AB28F5F5E5003503C0 /* ControlImageView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -172,6 +175,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5FEB97AC28F5F5E5003503C0 /* ControlImageView.swift in Sources */,
 				5F1452B028ED1A40007A0C33 /* ContentView.swift in Sources */,
 				5F1452AE28ED1A40007A0C33 /* PinchApp.swift in Sources */,
 				5F1452C028ED2A1E007A0C33 /* InfoPanelView.swift in Sources */,

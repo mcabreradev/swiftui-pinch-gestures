@@ -2,14 +2,14 @@ repo_name: mcabreradev/swiftui-pinch-gestures
 report_id: a0c9a5d88fbfe549deafa924520ef640
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:44:15+00:00'
+timestamp: '2024-02-29T18:44:24+00:00'
 requested_by: mcabreradev
 provider: github
 branch: main
 detected_tools_count: 2
 tools:
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
